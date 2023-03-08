@@ -1,0 +1,23 @@
+.login {
+    display: flex;
+    justify-content: center;
+}
+
+.lContainer {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 4px;
+
+}
+
+.lInput {
+    border: 1px solid #c3c3c3;
+    padding: 10px;
+    outline: none;
+    margin: 10px;
+}
+
+.lButton {
+    margin: 10px;
+}
